@@ -1,0 +1,19 @@
+{
+  "name": "roma_tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx mocha tests/desktop/qq.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "lodash": "^4.17.21",
+    "mocha": "^10.0.0",
+    "pupeteer": "0.0.1",
+    "puppeteer": "^14.1.1"
+  }
+}
